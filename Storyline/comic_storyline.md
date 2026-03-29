@@ -15,3 +15,33 @@
 ### Акт 5: Магическая Наковальня (Ожидает генерации)
 **Промт для следующего кадра:**
 A highly stylized neo-noir comic book panel, strictly in the grim, dark aesthetic of Max Payne graphic novels (heavy ink lines, high contrast black and deep shadows, gritty textures, halftone dots). The scene is set in a bustling, cheerful fantasy human city square with brown wooden architecture. There is a wooden quest board and a glowing magical anvil in the center. Two night elf female archers and a heroic silver knight (who holds a shield with a ridiculous bright yellow panties drawing) are happily absorbing glowing magic from the anvil, smiling very kindly and warmly. Meanwhile, Agonit the Death Knight is standing next to them in dark, brooding contrast, crying exaggeratedly in grim despair. Two comic book speech bubbles. In the first bubble pointing to the crying Agonit, the exact text in Russian: 'нет, я не могу, это не похоже на те места, откуда я родом'. And in the second bubble pointing to the silver knight, the exact text in Russian: 'времена изменились'. Dramatic absurd contrast of grim sadness and cheerful heroism.
+
+---
+
+### Интерлюдия: Тень Галедара
+
+Я - вор по ремеслу: тихий, незримый и преданный лишь теням. По крайней мере, так они думают.
+
+В преступном мире моё имя шепчут среди членов The Ember Skull Covenant - организации, которой боятся не только за её скрытность и точность, но и за разрушение, которое она оставляет после себя. Мы - призраки, заключённые в плоть, торгующие тайнами острее любого клинка. Наш символ - череп, объятый вечным пламенем - это предупреждение: если ты отмечен, спасения нет.
+
+Но верность - это тщательно созданная ложь.
+
+Мне поручено внедриться в культ Агонита - тирана, чьё влияние распространяется по королевствам, словно гниль. Мои приказы ясны: служить ему, завоевать его доверие, устранять его врагов и способствовать его возвышению.
+
+Они считают меня своим оружием.
+
+Агонит считает меня своей тенью.
+
+Оба ошибаются.
+
+Я - двойной агент, иду по лезвию ножа. Каждый услышанный шёпот, каждая раскрытая тайна - я собираю всё это в тишине. Не ради власти, не ради золота, а ради одной-единственной цели:
+
+Спасти Туртлу.
+
+Туртла - это не просто имя. Это жизнь, ценнее любого контракта, любой клятвы, которую я когда-либо давал. Попав в сети растущей власти Агонита, Тёртл стал целью… или, что хуже, пешкой. Если я потерплю неудачу, Тёртл будет поглощён той самой тьмой, которой я притворяюсь служить.
+
+Каждый мой шаг - риск. Один неверный ход, и и Синдикат, и Агонит обернутся против меня. Спасения не будет - только смерть.
+
+Но я прожил всю свою жизнь на грани между правдой и ложью.
+
+И я намерен прожить достаточно долго, чтобы сломать их обоих.
