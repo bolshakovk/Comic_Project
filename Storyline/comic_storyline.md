@@ -90,3 +90,21 @@ A highly stylized neo-noir comic book panel, strictly in the grim, dark aestheti
 
 В финале Близкона спадает морок: женщина в перьях оказывается злой ведьмой и верховной культисткой Чёрного Алмаза с WoW Sirus. Весь анонс «WoW Forever» был грандиозной спецоперацией — **злой Миша всё давно продумал**, чтобы заманить гоев в ловушку и окончательно расправиться со старыми легендами.
 
+
+
+---
+
+### Акт 10: Встреча в Элвинском Лесу (Готово к генерации)
+Вечер в уютном Элвинском лесу. Отряд «Чёрная Длань» устроил привал вокруг пылающего костра, встречая двух новых спутниц — синекожих ночных эльфиек Мистика (жрица в светлых одеждах) и Алю. 
+
+- **Морверон** жарит аппетитное мясо на шампурах над углями.
+- **Агонит** сидит на бревне и умиротворенно наблюдает.
+- **Эдвард Хейнд** в фиолетовой мантии с длинным носом протягивает новичкам колбы со светящимися зельями.
+- **Борг** опирается на сияющий Ледяной Молот (Frost Hammer) и приветствует их.
+- **Киссик (мартышка с одним зубом и безумной улыбкой Джокера)** с восторгом держит эльфиек за руки и ведет греться к костру.
+- **Аларак** на заднем плане сильно пукнул от смущения и восторга, заливаясь краской, из-за чего отряд покатывается со смеху!
+
+**Промт для кадра / Comic Panel Prompt:**
+```text
+A vibrant humorous fantasy comic book illustration in neo-noir and classic comic art style (rich warm campfire glow, cel-shaded shadows, bold expressive lines). Set in a twilight autumn clearing of Elwynn Forest under large trees. In the center, two graceful night elf females with vibrant blue-purple skin and long pointed elf ears arrive: Mystic (a priest wearing glowing white-blue robes) and Alya (wearing adventurer elf tunics). Kissik, a crazy cartoon monkey with disheveled brown fur, a single front tooth, and an unhinged Joker grin, cheerfully holds their hands, enthusiastically leading them towards a large crackling campfire. By the fire, Morveron the warrior in plate armor is happily turning roasted meat skewers over the coals. Agonit the Death Knight sits quietly on a fallen log in his deep black hood, watching warmly. Edward Haynd, a tall slender human warlock with a prominent long nose and flowing violet robes, offers bubbling potion vials to the girls. Borg the stocky dwarf shaman with a braided fiery beard leans on a massive glowing frost hammer, waving in greeting. In the comical background, the silver knight Alarak is blushing beet-red with a comical cloud puff behind him from a loud paladin fart, making the camp burst into laughter. Extremely cozy, funny, full of life and camaraderie.
+```
